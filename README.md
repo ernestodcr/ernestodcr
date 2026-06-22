@@ -19,33 +19,16 @@ Siempre estoy mejorando mis habilidades, creando cosas nuevas y buscando retos q
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/VUE-4FC08D?style=for-the-badge&logo=vue&logoColor=white)
-![Angular](https://shields.io)
-![Astro](https://shields.io)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-
 ## ⚙️ Backend
 
-![Node.js](https://shields.io)
-![Express](https://shields.io)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://shields.io)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
-
-## 🗄️ Databases
-
-![SQL](https://shields.io)
-![PostgreSQL](https://shields.io)
-![SQLite](https://shields.io)
-
-## 🌐 CMS
-![WordPress](https://shields.io)
-
 
 
 ## 📊 Data Analysis
